@@ -51,4 +51,4 @@ author_profile: true
 
 1. Teh, P.-L., Ahmed, P.K. and D'Arcy, J. (2015). "What Drives Information Security Policy Violations Among Banking Employees? Insights from Neutralization and Social Exchange Theory," _Journal of Global Information Management_, 23(1), 44-64.
 
-1. D'Arcy, J., Herath, T. and Shoss, M. (2014). "Understanding Employee Responses to Stressful Information Security Requirements: A Coping Perspective," _Journal of Management Information Systems_, 31(2), 291-325. [Online Appendix](url: https://jpdarcy.github.io/files/Online-Appendix-JMIS 2014.pdf)
+1. D'Arcy, J., Herath, T. and Shoss, M. (2014). "Understanding Employee Responses to Stressful Information Security Requirements: A Coping Perspective," _Journal of Management Information Systems_, 31(2), 291-325. [Online Appendix](https://jpdarcy.github.io/files/Online-Appendix-JMIS 2014.pdf)

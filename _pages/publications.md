@@ -7,16 +7,11 @@ author_profile: true
 
 ### 2023
 + Cram, A., D'Arcy, J. and Benlian, A. (2023). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, forthcoming.
-
 + Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, forthcoming.
-
 + Singh, T., Johnston, A.C., D'Arcy, J. and Harms, P.D. (2023). "Stress in the Cybersecurity Profession: An Systematic Review of Related Literature and Opportunities for Future Research," _Organizatioanl Cybersecurity Journal: Practice, Process, and People_, forthcoming.
-
 ### 2022
 + D'Arcy, J. and Basoglu, A. (2022). "The Influences of Public and Institutional Pressure on Firms' Cybersecurity Disclosures," _Journal of the Association for Information Systems_, 23(3), 779-805.
-
 + Wall, J.D., Palvia, P. and D'Arcy, J. (2022). "Theorizing the Behavioral Effects of Control Complementarity in Security Control Platforms," _Information Systems Frontiers_, 24(2), 637-658.
-
 ### 2021
 + Cianci, A.M., Convery, A.M., D'Arcy, J. and Tsakumis, G.T. (2021). "I Expected More From You: Navigating Client Trust Violations," _California Management Review Insights_, December 13.
 

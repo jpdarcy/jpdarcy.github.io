@@ -15,7 +15,7 @@ This course is a survey of topics in the realm of information security. It consi
 
 ***
 
-I have taught the following courses at the University of Delaware and the University of Notre Dame: 
+Additionally, I have taught the following courses at the University of Delaware and the University of Notre Dame: 
 +   MISY 261, Business Information Systems (Undergraduate course)
 +   MISY 610, Telecommunications & Networks I (Graduate course)
 +   MISY 611, Telecommunications & Networks II (Graduate course)

@@ -71,20 +71,12 @@ author_profile: true
 + D'Arcy, J. and Hovav, A. (2007). "Towards a Best Fit Between Organizational Security Countermeasures and Information Systems Misuse Behaviors," _Journal of Information System Security_, 3(2), 1-30.
 + Schuff, D., Turetken, O., D'Arcy, J. and Croson, D. (2007). "Managing E-Mail Overload: Present Solutions and Future Challenges," _IEEE Computer_, 40(2), 31-36.
 
-### 2006
+### 2006 and prior 
 + Schuff, D., Turetken, O. and D'Arcy, J.. (2006). "A Multi-Attribute, Multi-Weight Clustering Approach to Managing E-Mail Overload," _Decision Support Systems_, 42(3), 1350-1365.
-
-### 2005
 + Hovav, A. and D'Arcy, J. (2005). "Capital Market Reaction to Defective IT Products: The Case of Computer Viruses," _Computers & Security_, 24(5), 409-424.
-
-### 2004
 + Hovav, A. and D'Arcy, J. (2004). "The Impact of Virus Attack Announcements on the Market Value of Firms," _Information Systems Security_, 13(3), 32-40.
 + DeRosa, D., Hantula, D.A., Kock, N. and D'Arcy, J. (2004). "Trust and Leadership in Virtual Teamwork: A Media Naturalness Perspective," _Human Resource Management_, 43(2/3), 219-232.
-
-### 2003
 + Hovav, A. and D'Arcy, J. (2003). "The Impact of Denial-of-Service Attack Announcments on the Market Value of Firms," _Risk Management and Insurance Review_, 6(2), 97-121. **(Best Paper Award)**
-
-### 2002
 + Kock, N. and D'Arcy, J. (2002). "Resolving the E-Collaboration Paradox: The Competing Influences of Media Naturalness and Compensatory Adaptation," _Information Management and Consulting_, 17(4), 72-78.
 
 

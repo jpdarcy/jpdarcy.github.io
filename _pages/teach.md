@@ -5,7 +5,7 @@ permalink: /teach/
 author_profile: true
 ---
 
-I am now actively teaching the following courses at the University of Delaware (please email me for a recent syllabus): 
+I am now actively teaching the following courses at the University of Delaware (email me for a recent syllabus): 
 ### MISY 650, Security & Control (Graduate course)
 This course is a survey of topics in the realm of information security. It considers many contemporary topics ranging from basic security threats to cyber-warfare to security ethics to legal and cultural differences between countries. The course emphasizes managerial decision making through analyzing security problems and understanding effective solutions. The course culminates in a research project in which students conduct a real-world information technology risk assessment using an organization of thier choice. 
 ### MISY 667, Cybersecurity Management (Graduate course)

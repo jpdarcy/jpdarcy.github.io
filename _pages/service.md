@@ -4,7 +4,6 @@ title: "Academic Service"
 permalink: /service/
 author_profile: true
 ---
-
 ## Editorships
 ### Editorial Appointments
 -   Senior Editor, _MIS Quarterly_ (2022-) 

@@ -20,7 +20,7 @@ author_profile: true
 -   Associate Editor, _European Journal of Information Systems_, Special Issue on "Security and Privacy"
 -   Associate Editor, _Information Systems Journal_, Special Issue on "Dark Side of IT"
 
-## Recent Conference Editorial/Chairing Involvement 
+## Recent Conference Editorial/Chairing 
 
 -   Co-Chair, AMCIS Junior Faculty Consortium (2026)
 -   Co-Chair, AMCIS Mid-Career Faculty Workshop (2023)

@@ -70,5 +70,22 @@ author_profile: true
 + Kajzer, M., D'Arcy, J., Crowell, C., Striegel, A. and Van Bruggen, D. (2014). "An Exploratory Investigation of Message-Person Congruence in Information Security Awareness Campaigns," _Computers & Security_, 43, 64-76.
 
 ### 2012
++ Angst, C., Devaraj, S. and D'Arcy, J. (2012). "Dual Role of IT-Assisted Communication in Patient Care: A Validated Structure-Process-Outcome Framework," _Journal of Management Information Systems_, 29(2), 255-291.
+
++ D'Arcy, J. and Devaraj, S. (2012). "Employee Misuse of Information Technology Resources: Testing a Contemporary Deterrence Model," _Decision Sciences_, 43(6), 1091-1124. (Best Paper Runner Up)
+
++ Vaidyanathan, G., Devaraj, S. and D'Arcy, J. (2012). "Does Security Impact E-Procurement Performance? Testing a Model of Direct and Moderated Effects," _Decision Sciences_, 43(3), 437-458.
+
++ Hovav, A. and D'Arcy, J. (2012). "Applying an Extended Model of Deterrence Across Cultures: An Investigation of Information Systems Misuse in the U.S. and South Korea," _Information & Management_, 49(2), 99-110.
+
+### 2011
++ D'Arcy, J. and Herath, T. (2011). "A Review and Analysis of Deterrence Theory in the IS Security Literaure: Making Sense of the Disparate Findings," _European Journal of Information Systems_, 20(6), 643-658.
+
+### 2009
++ D'Arcy, J., Hovav, A. and Galletta, D. (2009). "User Awareness of Security Countermeaures and Its Impact on Information Systems Misuse: A Deterrence Perspective," _Information Systems Research_, 20(1), 79-98. (Emerald Citation of Excellence Award)
+
++ D'Arcy, J. and Hovav. A. (2009). "Does One Size Fit All? Examining the Differential Effects of IS Security Countermeasures," _Journal of Business Ethics_, 89(1), 59-71.
+
++ Chapple, M.J., D'Arcy, J., and Striegel, A. (2009). "An Analyis of Firewall Rulebase (Mis)Management Practices," _Journal of the Information Systems Security Association_, Feb., 12-18.
 
 

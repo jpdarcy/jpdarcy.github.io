@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 I am a Professor in the [Department of Accounting and Management Information Systems](https://lerner.udel.edu/departments/accounting-management-information-systems/) in the Lerner College of Business and Economics at the [University of Delaware](https://udel.edu). I am also a SWUFE-University of Delaware Joint Educational Institute (JEI) Research Fellow. 

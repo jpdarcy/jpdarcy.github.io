@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "John D'Arcy, Ph.D."
 title_separator          : "-"
 name                     : &name "John D'Arcy, Ph.D."
 description              : &description "Professor of Management Informaton Systems at the University of Delaware"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "John D'Arcy, Ph.D."
+  name             : "Dr. John D'Arcy"
   avatar           : "D'Arcy headshot.jpg"
   bio              : "Professor of Management Information Systems"
   location         : "Newark, Delaware, USA"

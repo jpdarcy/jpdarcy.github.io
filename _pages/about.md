@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me"
+excerpt: "Welcome to Dr. John D'Arcy's Academic Homepage"
 author_profile: true
 ---
 

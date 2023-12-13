@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Dr. John D'Arcy"
+name                     : &name "John D'Arcy, Ph.D."
 description              : &description "Professor of Management Informaton Systems at the University of Delaware"
 url                      : https://jpdarcy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

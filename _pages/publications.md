@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2024
-+ Cram, A., D'Arcy, J. and Benlian, A. (2023). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
++ Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
 
 ### 2023
 + Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, 33(6), 1396-1422.

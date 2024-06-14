@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2024
 + Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
++ Herath, T., D'Arcy, J., Herath, H. and Yuan, S. (2024) "Role of Need to Belong, Social Influences, and Perceived Risks in Social Networking Behaviors," _International Journal of Digital Society_, 15(1), 1916-1924.
 
 ### 2023
 + Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, 33(6), 1396-1422.

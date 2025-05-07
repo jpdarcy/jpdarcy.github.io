@@ -22,7 +22,7 @@ author_profile: true
 
 ## Recent Conference Editorial/Chairing 
 
--   Co-Chair, AMCIS Program (2026)
+-   Conference Co-Chair, AMCIS (2026)
 -   Co-Chair, AMCIS Mid-Career Faculty Workshop (2023)
 -   Track Co-Chair, ICIS "Cybersecurity and Privacy" Track (2023, 2025)
 -   Associate Editor, ICIS "Cybersecurity, Privacy, and Ethics of IS" Track (2021)

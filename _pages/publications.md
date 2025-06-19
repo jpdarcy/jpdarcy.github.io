@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Vaghefi, I., Turel, O. and D'Arcy, J. (Forthcoming). "An Empirical Comparison of Prominent Theories of Social Media Discontinuance: Toward a Synthesized Model," _Information & Management_.
-2. Cram, A. and D'Arcy, J. (Forthcoming). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_.
+1. Cram, A. and D'Arcy, J. (Forthcoming). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_.
+2. Vaghefi, I., Turel, O. and D'Arcy, J. (2025). "An Empirical Comparison of Prominent Theories of Social Media Discontinuance: Toward a Synthesized Model," _Information & Management_, 62(6), 104163.
 3. Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
 4. Herath, T., D'Arcy, J., Herath, H. and Yuan, S. (2024) "Role of Need to Belong, Social Influences, and Perceived Risks in Social Networking Behaviors," _International Journal of Digital Society_, 15(1), 1916-1924.
 5. Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, 33(6), 1396-1422.

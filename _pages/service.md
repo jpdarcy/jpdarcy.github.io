@@ -6,15 +6,15 @@ author_profile: true
 ---
 ## Editorships 
 ### Editorial Appointments
--   Senior Editor, _MIS Quarterly_ (2022-) 
+-   Senior Editor, _MIS Quarterly_ (2022---) 
 -   Senior Editor, _AIS Transactions on Replication Research_ (2017-2025)
--   Associate Editor, _Communications of the AIS_, Replication Research Department (2025-)
+-   Associate Editor, _Communications of the AIS_, Replication Research Department (2025---)
 -   Associate Editor, _MIS Quarterly_ (2017-2021)
 -   Associate Editor, _Journal of the Association for Information Systems_ (2019-2023)
 -   Associate Editor, _Decision Sciences_ (2014-2018)
 
 ### Guest and Special Issue Editorships
--   Guest Senior Editor, _Journal of the Association for Information Systems_ (2019-)
+-   Guest Senior Editor, _Journal of the Association for Information Systems_ (2019---)
 -   Associate Editor, _Journal of the Association for Information Systems_, Special Issue on "Digital Responsiblity"
 -   Associate Editor, _International Journal of Electronic Commerce_, Special Issue on "Dark Sides of Digitization"
 -   Associate Editor, _Information Systems Journal_, Special Issue on "Digitization of the Individual"

@@ -5,55 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Short, J., D'Arcy, J. and Hong, Y. (Conditionally Accepted). "Asymmetric Learning Effects of Chief Information Officer (CIO) Outside Board Appointments: Cybersecurity Implications to Sender and Receiver Firms," _Information Systems Research_.
-2. Cram, A., D'Arcy, J. and Benlian, A. (Conditionally Accepted). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
-3. Clement, J., Greenwood, B.N., D'Arcy, J. and Angst, C. (2025). "Expanding Risks: Medicaid Expansion and Data Security," _PLoS One_, 20(7), e0307015.
-4. Cram, A. and D'Arcy, J. (2025). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_.
-5. Vaghefi, I., Turel, O. and D'Arcy, J. (2025). "An Empirical Comparison of Prominent Theories of Social Media Discontinuance: Toward a Synthesized Model," _Information & Management_, 62(6), 104163.
-6. Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
-7. Herath, T., D'Arcy, J., Herath, H. and Yuan, S. (2024) "Role of Need to Belong, Social Influences, and Perceived Risks in Social Networking Behaviors," _International Journal of Digital Society_, 15(1), 1916-1924.
-8. Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, 33(6), 1396-1422.
-9. Singh, T., Johnston, A.C., D'Arcy, J. and Harms, P.D. (2023). "Stress in the Cybersecurity Profession: An Systematic Review of Related Literature and Opportunities for Future Research," _Organizational Cybersecurity Journal: Practice, Process, and People_, 3(2), 100-126.
-10. D'Arcy, J. and Basoglu, A. (2022). "The Influences of Public and Institutional Pressure on Firms' Cybersecurity Disclosures," _Journal of the Association for Information Systems_, 23(3), 779-805.
-11. Wall, J.D., Palvia, P. and D'Arcy, J. (2022). "Theorizing the Behavioral Effects of Control Complementarity in Security Control Platforms," _Information Systems Frontiers_, 24(2), 637-658.
-12. Cianci, A.M., Convery, A.M., D'Arcy, J. and Tsakumis, G.T. (2021). "I Expected More From You: Navigating Client Trust Violations," _California Management Review Insights_, December 13.
-13. Cram, A., Proudfoot, J. and D'Arcy, J. (2021). "When Enough is Enough: Investigating the Antecedents and Consequences of Information Security Fatigue," _Information Systems Journal_, 31(4), 521-549.
-14. Blackwood-Brown, C., Levy, Y. and D'Arcy, J. (2021). "Cybersecurity Awareness and Skills of Senior Citizens: A Motivation Perspective," _Journal of Computer Information Systems_, 61(3), 195-206.
-15. D'Arcy, J., Adjerid, I., Angst, C. and Glavas, A. (2020). "Too Good to Be True: Firm Social Reputation and the Risk of Data Breach," _Information Systems Research_, 31(4), 1200-1223.
-16. Cram, A., Proudfoot, J. and D'Arcy, J. (2020). "Maximizing Employee Compliance with Cybersecurity Policies," _MIS Quarterly Executive_, 19(3), 183-198.
-17. Herath, T., Herath, H. and D'Arcy, J. (2020). "Diffusion of Information Security Solutions in Organizations: An Integrative Lens Based on Information Diffusion and Technology-Organization-Environment Framework," _The DATABASE for Advances in Information Systems_, 51(2), 12-35.
-18. Cram, A., D'Arcy, J. and Proudfoot, J. (2019). "Seeing the Forest and the Trees: A Meta-Analysis of the Antecedents of Information Security Policy Compliance," _MIS Quarterly_, 43(2), 525-554.
-19. D'Arcy, J. and Lowry, P.B. (2019). "Cognitive-Affective Drivers of Employees' Daily Compliance with Information Security Policies: A Multilevel, Longitudinal Study," _Information Systems Journal_, 29(1), 43-69.
-20. D'Arcy, J. and Teh, P.-L. (2019). "Predicting Employee Information Security Policy Compliance on a Daily Basis: The Interplay of Security-Related Stress, Emotions, and Neutralization," _Information & Management_, 56(7), 103151.
-21. Turel, O., Matt, C., Trenz, M, Cheung, C.M.K., D'Arcy, J., Qahri-Saremi, H. and Tarafdar, M. (2019). "Panel Report: The Dark Side of the Digitization of the Individual," _Internet Research_, 29(2), 274-288.
-22. Herath, T., Yim, M.-S., D'Arcy, J., Kichan, N. and Raghav, H.R. (2018). "Examining Employees Security Violations: Moral Disengagement and Its Environmental Influences," _Information Technology & People_, 31(6), 1135-1162.
-23. D'Arcy, J., Herath, T., Yim, M.-S., Kichan, N. and Raghav, H.R. (2018). "Employee Moral Disengagement in Response to Stressful Information Security Requirements: A Methodological Replication of a Coping-Based Model," _AIS Transactions on Replication Research_, 4(8), 1-17.
-24. Angst, C., Block, E., D'Arcy, J. and Kelley, K. (2017). "When Do IT Security Investments Matter? Accounting for the Influence of Institutional Factors in the Context of Healthcare Data Breaches," _MIS Quarterly_, 41(3), 893-916.
-25. Cram, A., Proudfoot, J. and D'Arcy, J. (2017). "Organizational Information Security Policies: A Review and Research Framework," _European Journal of Information Systems_, 26(6), 605-641.
-26. Lowry, P.B., D'Arcy, J., Hammer, B. and Moody, G. (2016). "Cargo Cult Science in Traditional Organization and Information Systems Survey Research: A Case for Nontraditional Methods of Data Collection, Including Mechanical Turk and Online Panels," _Journal of Strategic Information Systems_, 25(3), 232-240.
-27. Cram, A. and D'Arcy, J. (2016). "Teaching Information Security in Business Schools: A Proposal to Balance Technical and Managerial Content," _Communications of the Association for Information Systems_, 39(3), 32-51.
-28. Tarafdar, M., D'Arcy, J., Gupta, A. and Turel, O. (2015). "Is Information Technology Zapping Your Organization? Taking on the Dark Side of Information Technology Use," _MIT Sloan Management Review_, 56(2), 61-70.
-29. Teh, P.-L., Ahmed, P.K. and D'Arcy, J. (2015). "What Drives Information Security Policy Violations Among Banking Employees? Insights from Neutralization and Social Exchange Theory," _Journal of Global Information Management_, 23(1), 44-64.
-30. D'Arcy, J., Herath, T. and Shoss, M. (2014). "Understanding Employee Responses to Stressful Information Security Requirements: A Coping Perspective," _Journal of Management Information Systems_, 31(2), 291-325. [Online Appendix](https://jpdarcy.github.io/files/Online-Appendix-JMIS.pdf)
-31. D'Arcy, J. and Greene, G. (2014). "Security Culture and the Employment Relationship as Drivers of Employees' Security Compliance," _Information Management & Computer Security_, 22(5), 474-489.
-32. D'Arcy, J., Gupta, A., Tarafdar, M. and Turel, O. (2014). "Reflecting on the 'Dark Side' of Information Technology Use," _Communications of the Association for Information Systems_, 35(5), 109-118.
-33. Kajzer, M., D'Arcy, J., Crowell, C., Striegel, A. and Van Bruggen, D. (2014). "An Exploratory Investigation of Message-Person Congruence in Information Security Awareness Campaigns," _Computers & Security_, 43, 64-76.
-34. Angst, C., Devaraj, S. and D'Arcy, J. (2012). "Dual Role of IT-Assisted Communication in Patient Care: A Validated Structure-Process-Outcome Framework," _Journal of Management Information Systems_, 29(2), 255-291.
-35. D'Arcy, J. and Devaraj, S. (2012). "Employee Misuse of Information Technology Resources: Testing a Contemporary Deterrence Model," _Decision Sciences_, 43(6), 1091-1124. **(Best Paper Runner Up)**
-36. Vaidyanathan, G., Devaraj, S. and D'Arcy, J. (2012). "Does Security Impact E-Procurement Performance? Testing a Model of Direct and Moderated Effects," _Decision Sciences_, 43(3), 437-458.
-37. Hovav, A. and D'Arcy, J. (2012). "Applying an Extended Model of Deterrence Across Cultures: An Investigation of Information Systems Misuse in the U.S. and South Korea," _Information & Management_, 49(2), 99-110.
-38. D'Arcy, J. and Herath, T. (2011). "A Review and Analysis of Deterrence Theory in the IS Security Literaure: Making Sense of the Disparate Findings," _European Journal of Information Systems_, 20(6), 643-658.
-39. D'Arcy, J., Hovav, A. and Galletta, D. (2009). "User Awareness of Security Countermeaures and Its Impact on Information Systems Misuse: A Deterrence Perspective," _Information Systems Research_, 20(1), 79-98. **(Emerald Citations of Excellence Award)**
-40. D'Arcy, J. and Hovav. A. (2009). "Does One Size Fit All? Examining the Differential Effects of IS Security Countermeasures," _Journal of Business Ethics_, 89(1), 59-71.
-41. Chapple, M.J., D'Arcy, J., and Striegel, A. (2009). "An Analyis of Firewall Rulebase (Mis)Management Practices," _Journal of the Information Systems Security Association_, Feb., 12-18.
-42. D'Arcy, J. and Hovav, A. (2007). "Deterring Internal Information Systems Misuse," _Communications of the ACM_, 50(10), 113-117.
-43. D'Arcy, J. and Hovav, A. (2007). "Towards a Best Fit Between Organizational Security Countermeasures and Information Systems Misuse Behaviors," _Journal of Information System Security_, 3(2), 1-30.
-44. Schuff, D., Turetken, O., D'Arcy, J. and Croson, D. (2007). "Managing E-Mail Overload: Present Solutions and Future Challenges," _IEEE Computer_, 40(2), 31-36.
-45. Schuff, D., Turetken, O. and D'Arcy, J.. (2006). "A Multi-Attribute, Multi-Weight Clustering Approach to Managing E-Mail Overload," _Decision Support Systems_, 42(3), 1350-1365.
-46. Hovav, A. and D'Arcy, J. (2005). "Capital Market Reaction to Defective IT Products: The Case of Computer Viruses," _Computers & Security_, 24(5), 409-424.
-47. Hovav, A. and D'Arcy, J. (2004). "The Impact of Virus Attack Announcements on the Market Value of Firms," _Information Systems Security_, 13(3), 32-40.
-48. DeRosa, D., Hantula, D.A., Kock, N. and D'Arcy, J. (2004). "Trust and Leadership in Virtual Teamwork: A Media Naturalness Perspective," _Human Resource Management_, 43(2/3), 219-232.
-49. Hovav, A. and D'Arcy, J. (2003). "The Impact of Denial-of-Service Attack Announcments on the Market Value of Firms," _Risk Management and Insurance Review_, 6(2), 97-121. **(Best Paper Award)**
-50. Kock, N. and D'Arcy, J. (2002). "Resolving the E-Collaboration Paradox: The Competing Influences of Media Naturalness and Compensatory Adaptation," _Information Management and Consulting_, 17(4), 72-78.
+1. Cram, A., D'Arcy, J. and Benlian, A. (Conditionally Accepted). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
+3. Short, J., D'Arcy, J. and Hong, Y. (Forthcoming). "Asymmetric Learning Effects of Chief Information Officer (CIO) Outside Board Appointments: Cybersecurity Implications to Sender and Receiver Firms," _Information Systems Research_.
+4. Clement, J., Greenwood, B.N., D'Arcy, J. and Angst, C. (2025). "Expanding Risks: Medicaid Expansion and Data Security," _PLoS One_, 20(7), e0307015.
+5. Cram, A. and D'Arcy, J. (2025). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_.
+6. Vaghefi, I., Turel, O. and D'Arcy, J. (2025). "An Empirical Comparison of Prominent Theories of Social Media Discontinuance: Toward a Synthesized Model," _Information & Management_, 62(6), 104163.
+7. Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
+8. Herath, T., D'Arcy, J., Herath, H. and Yuan, S. (2024) "Role of Need to Belong, Social Influences, and Perceived Risks in Social Networking Behaviors," _International Journal of Digital Society_, 15(1), 1916-1924.
+9. Cram, A. and D'Arcy, J. (2023). "What a Waste of Time: An Examination of Cybersecurity Legitimacy," _Information Systems Journal_, 33(6), 1396-1422.
+10. Singh, T., Johnston, A.C., D'Arcy, J. and Harms, P.D. (2023). "Stress in the Cybersecurity Profession: An Systematic Review of Related Literature and Opportunities for Future Research," _Organizational Cybersecurity Journal: Practice, Process, and People_, 3(2), 100-126.
+11. D'Arcy, J. and Basoglu, A. (2022). "The Influences of Public and Institutional Pressure on Firms' Cybersecurity Disclosures," _Journal of the Association for Information Systems_, 23(3), 779-805.
+12. Wall, J.D., Palvia, P. and D'Arcy, J. (2022). "Theorizing the Behavioral Effects of Control Complementarity in Security Control Platforms," _Information Systems Frontiers_, 24(2), 637-658.
+13. Cianci, A.M., Convery, A.M., D'Arcy, J. and Tsakumis, G.T. (2021). "I Expected More From You: Navigating Client Trust Violations," _California Management Review Insights_, December 13.
+14. Cram, A., Proudfoot, J. and D'Arcy, J. (2021). "When Enough is Enough: Investigating the Antecedents and Consequences of Information Security Fatigue," _Information Systems Journal_, 31(4), 521-549.
+15. Blackwood-Brown, C., Levy, Y. and D'Arcy, J. (2021). "Cybersecurity Awareness and Skills of Senior Citizens: A Motivation Perspective," _Journal of Computer Information Systems_, 61(3), 195-206.
+16. D'Arcy, J., Adjerid, I., Angst, C. and Glavas, A. (2020). "Too Good to Be True: Firm Social Reputation and the Risk of Data Breach," _Information Systems Research_, 31(4), 1200-1223.
+17. Cram, A., Proudfoot, J. and D'Arcy, J. (2020). "Maximizing Employee Compliance with Cybersecurity Policies," _MIS Quarterly Executive_, 19(3), 183-198.
+18. Herath, T., Herath, H. and D'Arcy, J. (2020). "Diffusion of Information Security Solutions in Organizations: An Integrative Lens Based on Information Diffusion and Technology-Organization-Environment Framework," _The DATABASE for Advances in Information Systems_, 51(2), 12-35.
+19. Cram, A., D'Arcy, J. and Proudfoot, J. (2019). "Seeing the Forest and the Trees: A Meta-Analysis of the Antecedents of Information Security Policy Compliance," _MIS Quarterly_, 43(2), 525-554.
+20. D'Arcy, J. and Lowry, P.B. (2019). "Cognitive-Affective Drivers of Employees' Daily Compliance with Information Security Policies: A Multilevel, Longitudinal Study," _Information Systems Journal_, 29(1), 43-69.
+21. D'Arcy, J. and Teh, P.-L. (2019). "Predicting Employee Information Security Policy Compliance on a Daily Basis: The Interplay of Security-Related Stress, Emotions, and Neutralization," _Information & Management_, 56(7), 103151.
+22. Turel, O., Matt, C., Trenz, M, Cheung, C.M.K., D'Arcy, J., Qahri-Saremi, H. and Tarafdar, M. (2019). "Panel Report: The Dark Side of the Digitization of the Individual," _Internet Research_, 29(2), 274-288.
+23. Herath, T., Yim, M.-S., D'Arcy, J., Kichan, N. and Raghav, H.R. (2018). "Examining Employees Security Violations: Moral Disengagement and Its Environmental Influences," _Information Technology & People_, 31(6), 1135-1162.
+24. D'Arcy, J., Herath, T., Yim, M.-S., Kichan, N. and Raghav, H.R. (2018). "Employee Moral Disengagement in Response to Stressful Information Security Requirements: A Methodological Replication of a Coping-Based Model," _AIS Transactions on Replication Research_, 4(8), 1-17.
+25. Angst, C., Block, E., D'Arcy, J. and Kelley, K. (2017). "When Do IT Security Investments Matter? Accounting for the Influence of Institutional Factors in the Context of Healthcare Data Breaches," _MIS Quarterly_, 41(3), 893-916.
+26. Cram, A., Proudfoot, J. and D'Arcy, J. (2017). "Organizational Information Security Policies: A Review and Research Framework," _European Journal of Information Systems_, 26(6), 605-641.
+27. Lowry, P.B., D'Arcy, J., Hammer, B. and Moody, G. (2016). "Cargo Cult Science in Traditional Organization and Information Systems Survey Research: A Case for Nontraditional Methods of Data Collection, Including Mechanical Turk and Online Panels," _Journal of Strategic Information Systems_, 25(3), 232-240.
+28. Cram, A. and D'Arcy, J. (2016). "Teaching Information Security in Business Schools: A Proposal to Balance Technical and Managerial Content," _Communications of the Association for Information Systems_, 39(3), 32-51.
+29. Tarafdar, M., D'Arcy, J., Gupta, A. and Turel, O. (2015). "Is Information Technology Zapping Your Organization? Taking on the Dark Side of Information Technology Use," _MIT Sloan Management Review_, 56(2), 61-70.
+30. Teh, P.-L., Ahmed, P.K. and D'Arcy, J. (2015). "What Drives Information Security Policy Violations Among Banking Employees? Insights from Neutralization and Social Exchange Theory," _Journal of Global Information Management_, 23(1), 44-64.
+31. D'Arcy, J., Herath, T. and Shoss, M. (2014). "Understanding Employee Responses to Stressful Information Security Requirements: A Coping Perspective," _Journal of Management Information Systems_, 31(2), 291-325. [Online Appendix](https://jpdarcy.github.io/files/Online-Appendix-JMIS.pdf)
+32. D'Arcy, J. and Greene, G. (2014). "Security Culture and the Employment Relationship as Drivers of Employees' Security Compliance," _Information Management & Computer Security_, 22(5), 474-489.
+33. D'Arcy, J., Gupta, A., Tarafdar, M. and Turel, O. (2014). "Reflecting on the 'Dark Side' of Information Technology Use," _Communications of the Association for Information Systems_, 35(5), 109-118.
+34. Kajzer, M., D'Arcy, J., Crowell, C., Striegel, A. and Van Bruggen, D. (2014). "An Exploratory Investigation of Message-Person Congruence in Information Security Awareness Campaigns," _Computers & Security_, 43, 64-76.
+35. Angst, C., Devaraj, S. and D'Arcy, J. (2012). "Dual Role of IT-Assisted Communication in Patient Care: A Validated Structure-Process-Outcome Framework," _Journal of Management Information Systems_, 29(2), 255-291.
+36. D'Arcy, J. and Devaraj, S. (2012). "Employee Misuse of Information Technology Resources: Testing a Contemporary Deterrence Model," _Decision Sciences_, 43(6), 1091-1124. **(Best Paper Runner Up)**
+37. Vaidyanathan, G., Devaraj, S. and D'Arcy, J. (2012). "Does Security Impact E-Procurement Performance? Testing a Model of Direct and Moderated Effects," _Decision Sciences_, 43(3), 437-458.
+38. Hovav, A. and D'Arcy, J. (2012). "Applying an Extended Model of Deterrence Across Cultures: An Investigation of Information Systems Misuse in the U.S. and South Korea," _Information & Management_, 49(2), 99-110.
+39. D'Arcy, J. and Herath, T. (2011). "A Review and Analysis of Deterrence Theory in the IS Security Literaure: Making Sense of the Disparate Findings," _European Journal of Information Systems_, 20(6), 643-658.
+40. D'Arcy, J., Hovav, A. and Galletta, D. (2009). "User Awareness of Security Countermeaures and Its Impact on Information Systems Misuse: A Deterrence Perspective," _Information Systems Research_, 20(1), 79-98. **(Emerald Citations of Excellence Award)**
+41. D'Arcy, J. and Hovav. A. (2009). "Does One Size Fit All? Examining the Differential Effects of IS Security Countermeasures," _Journal of Business Ethics_, 89(1), 59-71.
+42. Chapple, M.J., D'Arcy, J., and Striegel, A. (2009). "An Analyis of Firewall Rulebase (Mis)Management Practices," _Journal of the Information Systems Security Association_, Feb., 12-18.
+43. D'Arcy, J. and Hovav, A. (2007). "Deterring Internal Information Systems Misuse," _Communications of the ACM_, 50(10), 113-117.
+44. D'Arcy, J. and Hovav, A. (2007). "Towards a Best Fit Between Organizational Security Countermeasures and Information Systems Misuse Behaviors," _Journal of Information System Security_, 3(2), 1-30.
+45. Schuff, D., Turetken, O., D'Arcy, J. and Croson, D. (2007). "Managing E-Mail Overload: Present Solutions and Future Challenges," _IEEE Computer_, 40(2), 31-36.
+46. Schuff, D., Turetken, O. and D'Arcy, J.. (2006). "A Multi-Attribute, Multi-Weight Clustering Approach to Managing E-Mail Overload," _Decision Support Systems_, 42(3), 1350-1365.
+47. Hovav, A. and D'Arcy, J. (2005). "Capital Market Reaction to Defective IT Products: The Case of Computer Viruses," _Computers & Security_, 24(5), 409-424.
+48. Hovav, A. and D'Arcy, J. (2004). "The Impact of Virus Attack Announcements on the Market Value of Firms," _Information Systems Security_, 13(3), 32-40.
+49. DeRosa, D., Hantula, D.A., Kock, N. and D'Arcy, J. (2004). "Trust and Leadership in Virtual Teamwork: A Media Naturalness Perspective," _Human Resource Management_, 43(2/3), 219-232.
+50. Hovav, A. and D'Arcy, J. (2003). "The Impact of Denial-of-Service Attack Announcments on the Market Value of Firms," _Risk Management and Insurance Review_, 6(2), 97-121. **(Best Paper Award)**
+51. Kock, N. and D'Arcy, J. (2002). "Resolving the E-Collaboration Paradox: The Competing Influences of Media Naturalness and Compensatory Adaptation," _Information Management and Consulting_, 17(4), 72-78.
 
 

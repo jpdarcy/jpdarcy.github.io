@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teach/
 author_profile: true
 ---
-I am now actively teaching the following courses at the University of Delaware ([email](mailto:jdarcy@udel.edu) me for a recent syllabus): 
+I am now actively teaching the following courses ([email](mailto:john.darcy@temple.edu) me for a recent syllabus): 
 ### MISY 650, Security & Control (Graduate course)
 This course is a survey of topics in the realm of cybersecurity. It considers many contemporary topics ranging from basic cybersecurity threats to cyber warfare to cyber ethics to legal and cultural differences between countries. The course emphasizes managerial decision making through analyzing cybersecurity problems and understanding effective solutions. The course culminates in a research project in which students conduct a real-world information technology risk assessment using an organization of their choice. 
 ### MISY 603, Cybersecurity Management (Graduate course)

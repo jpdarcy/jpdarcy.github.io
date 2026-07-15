@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John D'Arcy, Ph.D."
 title_separator          : "-"
 name                     : &name "John D'Arcy, Ph.D."
-description              : &description "Professor of Management Informaton Systems at the University of Delaware"
+description              : &description "Professor of Management Information Systems at Temple University"
 url                      : https://jpdarcy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpdarcy/jpdarcy.github.io"
@@ -83,13 +83,13 @@ author:
   name             : "Dr. John D'Arcy"
   avatar           : "D'Arcy headshot.jpg"
   bio              : "Professor of Management Information Systems"
-  location         : "Newark, Delaware, USA"
-  employer         : "University of Delaware"
+  location         : "Philadelphia, Pennsylvania, USA"
+  employer         : "Temple University"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=gPwolvIAAAAJ&hl=en&oi=ao"
-  email            : "jdarcy@udel.edu"
+  email            : "john.darcy@temple.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "https://lerner.udel.edu/faculty-staff-directory/john-darcy/"
+  uri              :  "https://www.fox.temple.edu/faculty-research/academic-areas/management-information-systems/faculty"
   bitbucket        :
   codepen          :
   dribbble         :

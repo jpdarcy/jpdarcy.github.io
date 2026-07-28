@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Cram, A., D'Arcy, J. and Benlian, A. (Conditionally Accepted). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
+1. Cram, A., D'Arcy, J. and Benlian, A. (Forthcoming). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
 2. Short, J., D'Arcy, J. and Hong, Y. (Forthcoming). "Asymmetric Learning Effects of Chief Information Officer (CIO) Outside Board Appointments: Cybersecurity Implications to Sender and Receiver Firms," _Information Systems Research_.
 3. Metcalfe, S., D'Arcy, J. and Liu, Y. (Forthcoming). "Cyber Defense Self-Efficacy: Information Quality and Artificial Intelligence Adoption as Drivers Against Deepfake," _AIS Transactions on Human-Computer Interaction_.
 5. Clement, J., Greenwood, B.N., D'Arcy, J. and Angst, C. (2025). "Expanding Risks: Medicaid Expansion and Data Security," _PLoS One_, 20(7), e0307015.

@@ -8,8 +8,9 @@ author_profile: true
 1. Cram, A., D'Arcy, J. and Benlian, A. (Forthcoming). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
 2. Short, J., D'Arcy, J. and Hong, Y. (Forthcoming). "Asymmetric Learning Effects of Chief Information Officer (CIO) Outside Board Appointments: Cybersecurity Implications to Sender and Receiver Firms," _Information Systems Research_.
 3. Metcalfe, S., D'Arcy, J. and Liu, Y. (Forthcoming). "Cyber Defense Self-Efficacy: Information Quality and Artificial Intelligence Adoption as Drivers Against Deepfake," _AIS Transactions on Human-Computer Interaction_.
+4. Brown, S., Seidel, S., D'Arcy, J., Hahn, J., Hsu, C., Matook, S., Saar-Tsechansky, M., Shaikh, M. and Thatcher, J.B. (2026). "Editor's Comments: Engaging with Practice for Impactful Research," _MIS Quarterly_, 50(3). iii-xiv.
 5. Clement, J., Greenwood, B.N., D'Arcy, J. and Angst, C. (2025). "Expanding Risks: Medicaid Expansion and Data Security," _PLoS One_, 20(7), e0307015.
-6. Cram, A. and D'Arcy, J. (2025). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_.
+6. Cram, A. and D'Arcy, J. (2025). "Barking Up the Wrong Tree: Reconsidering Policy Compliance as a Dependent Variable within Behavioral Cybersecurity Research," _Information Systems Frontiers_, 28, 493-504..
 7. Vaghefi, I., Turel, O. and D'Arcy, J. (2025). "An Empirical Comparison of Prominent Theories of Social Media Discontinuance: Toward a Synthesized Model," _Information & Management_, 62(6), 104163.
 8. Cram, A., D'Arcy, J. and Benlian, A. (2024). "Time Will Tell: A Case for an Idiographic Approach to Behavioral Cybersecurity Research," _MIS Quarterly_, 48(1), 95-136.
 9. Herath, T., D'Arcy, J., Herath, H. and Yuan, S. (2024) "Role of Need to Belong, Social Influences, and Perceived Risks in Social Networking Behaviors," _International Journal of Digital Society_, 15(1), 1916-1924.

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Nikkhah, H., **D'Arcy, J**. and Schlackl, F. (Conditionally Accepted). "From Dual Appraisal to Reappraisal: A Longitudinal Study of Protective and Punitive Responses Following the Equifax Data Breach," _MIS Quarterly_.
+1. Nikkhah, H., **D'Arcy, J**. and Schlackl, F. (Forthcoming). "From Dual Appraisal to Reappraisal: A Longitudinal Study of Protective and Punitive Responses Following the Equifax Data Breach," _MIS Quarterly_.
 2. Cram, A., **D'Arcy, J**. and Benlian, A. (Forthcoming). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
 3. Metcalfe, S., **D'Arcy, J**. and Liu, Y. (Forthcoming). "Cyber Defense Self-Efficacy: Information Quality and Artificial Intelligence Adoption as Drivers Against Deepfake," _AIS Transactions on Human-Computer Interaction_.
 4. Short, J., **D'Arcy, J**. and Hong, Y. (2026). "Asymmetric Learning Effects of Chief Information Officer (CIO) Outside Board Appointments: Cybersecurity Implications to Sender and Receiver Firms," _Information Systems Research_, 37(3), 1550-1570.

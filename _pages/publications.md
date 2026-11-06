@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Wang, Q., **D'Arcy, J**., Pienta, D., Que, T. and Xie, J. (Forthcoming). "Under the Radar: The Impact of Relaxed Institutional Shareholder Monitoring on Firms' Cybersecurity Management," _MIS Quarterly_.
+1. Wang, Q., Pienta, D., **D'Arcy, J**., Que, T. and Xie, J. (Forthcoming). "Under the Radar: The Impact of Relaxed Institutional Shareholder Monitoring on Firms' Cybersecurity Management," _MIS Quarterly_.
 2. Nikkhah, H., **D'Arcy, J**. and Schlackl, F. (Forthcoming). "From Dual Appraisal to Reappraisal: A Longitudinal Study of Protective and Punitive Responses Following the Equifax Data Breach," _MIS Quarterly_.
 3. Cram, A., **D'Arcy, J**. and Benlian, A. (Forthcoming). "The Only Thing We Have to Fear Is Fear Itself: The Influence of Instability in the Cybersecurity Fear Control Process," _MIS Quarterly_.
 4. Metcalfe, S., **D'Arcy, J**. and Liu, Y. (Forthcoming). "Cyber Defense Self-Efficacy: Information Quality and Artificial Intelligence Adoption as Drivers Against Deepfake," _AIS Transactions on Human-Computer Interaction_.
